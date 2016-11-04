@@ -1,0 +1,20 @@
+#################### TEST CARDS ####################
+## 3D SECURE
+ 4111111111111111
+ 4012001037141112
+
+## NON 3D SECURE
+ 555555555555558
+
+#################### SANDBOX CREDS ##################
+URL : https://api.razorpay.com/v1/
+KEY_ID : rzp_test_ZhiDaLVNmMdw2T
+KEY_SECRET : P204Qt8LqruT1ywtUfW3x5bq
+
+
+#################### DOC URL #########################
+https://docs.razorpay.com/v1/page/settlement-api
+https://docs.razorpay.com/v1/page/orders 
+https://docs.razorpay.com/v1/page/s2s-integration
+https://docs.razorpay.com/v1/page/razorpayjs
+

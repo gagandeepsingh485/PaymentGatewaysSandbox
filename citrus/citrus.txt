@@ -1,0 +1,28 @@
+################### TEST CARDS ###########################
+Use any live card for success
+Use these cards for error :
+5204730000002514
+12/25
+251
+
+5204730000001102
+12/25
+110
+
+5257210001000357
+12/25
+324
+
+5204740000003362
+12/25
+336
+
+5204730000001151
+12/25
+
+
+################### SANDBOX CREDS  ########################
+API_URL : https://blazecardsbox.citruspay.com/cards-gateway/
+MERCHANT_ACCESS_KEY : 28WXWV0ZGKKYM0ZQ2SQN
+MERHCHANT_ACCESS_SECRET: 7a53b058420bbc464225b00446b06f673716c371
+

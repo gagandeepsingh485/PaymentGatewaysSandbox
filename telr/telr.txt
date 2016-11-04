@@ -1,0 +1,70 @@
+###########TEST CARDS#################
+
+## NON-3D SECURE
+4000 0000 0000 0002
+Visa
+123
+
+5105 1051 0510 5100
+Mastercard
+123
+
+6767 0957 4000 0005
+Solo
+123
+
+3434 343434 34343
+American Express
+1234
+ 
+3566 0020 2014 0006
+JCB
+123
+
+## 3D-SECURE
+4111 1111 1111 1111
+Visa
+123
+
+4444 3333 2222 1111
+Visa
+123
+
+4444 4244 4444 4440
+Visa
+123
+
+4444 4444 4444 4448
+Visa
+123
+ 
+4012 8888 8888 1881
+Visa
+123
+
+5454 5454 5454 5454
+Mastercard
+123
+ 
+5555 5555 5555 4444
+Mastercard
+123
+ 
+
+5555 5555 5555 5557
+Mastercard
+123
+ 
+5581 5822 2222 2229
+Mastercard
+123
+ 
+5641 8209 0009 7002
+Maestro UK
+123
+
+##########SANDBOX CREDS###############
+NON MPI URL : https://secure.telr.com/gateway/remote.xml
+MPI URL : https://secure.telr.com/gateway/remote_mpi.xml
+STORE ID : 17106
+AUTHENTICATION KEY : WZV7W#gbMVw^kSBk
